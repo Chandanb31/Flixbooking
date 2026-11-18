@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+<title>Kaagaz Ke Sapne</title><defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb26b"/><stop offset="0.45" stop-color="#ff7a59"/><stop offset="1" stop-color="#5b2a4a"/></linearGradient><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.9"/></linearGradient></defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<circle cx="200" cy="230" r="85" fill="#ffe3a3" opacity="0.9"/>
+<path d="M0 330 L40 330 L40 300 L60 280 L80 300 L80 330 L130 330 L130 290 L150 250 L170 290 L170 330 L260 330 L260 305 L280 270 L300 305 L300 330 L340 330 L340 295 L360 275 L380 295 L380 330 L400 330 L400 360 L0 360Z" fill="#3a1a33"/>
+<rect x="0" y="360" width="400" height="4" fill="#2c1428" opacity="0.8"/>
+<rect x="0" y="368" width="400" height="4" fill="#2c1428" opacity="0.8"/>
+<rect x="0" y="376" width="400" height="4" fill="#2c1428" opacity="0.8"/>
+<rect x="0" y="384" width="400" height="4" fill="#2c1428" opacity="0.8"/>
+<rect x="0" y="392" width="400" height="208" fill="#2e1a3d"/>
+<path d="M16 405 h151" stroke="#ffb26b" stroke-width="2" opacity="0.45" stroke-linecap="round"/>
+<path d="M20 423 h168" stroke="#ffb26b" stroke-width="2" opacity="0.42" stroke-linecap="round"/>
+<path d="M14 441 h137" stroke="#ffb26b" stroke-width="2" opacity="0.38" stroke-linecap="round"/>
+<path d="M0 459 h176" stroke="#ffb26b" stroke-width="2" opacity="0.34" stroke-linecap="round"/>
+<path d="M58 477 h178" stroke="#ffb26b" stroke-width="2" opacity="0.31" stroke-linecap="round"/>
+<path d="M20 495 h145" stroke="#ffb26b" stroke-width="2" opacity="0.28" stroke-linecap="round"/>
+<path d="M47 513 h96" stroke="#ffb26b" stroke-width="2" opacity="0.24" stroke-linecap="round"/>
+<path d="M14 531 h142" stroke="#ffb26b" stroke-width="2" opacity="0.20" stroke-linecap="round"/>
+<path d="M14 549 h172" stroke="#ffb26b" stroke-width="2" opacity="0.17" stroke-linecap="round"/>
+<path d="M52 567 h96" stroke="#ffb26b" stroke-width="2" opacity="0.13" stroke-linecap="round"/>
+<g transform="translate(200,404) scale(1.4)" opacity="1"><path d="M-30 0 L30 0 L20 12 L-20 12Z" fill="#fffaf0"/><path d="M-14 0 L0 -26 L14 0Z" fill="#f1e6d0"/><path d="M0 -26 L14 0 L4 0Z" fill="#e0d2b8"/></g>
+<g transform="translate(338,406) scale(0.6823256352199278)" opacity="0.79"><path d="M-30 0 L30 0 L20 12 L-20 12Z" fill="#fffaf0"/><path d="M-14 0 L0 -26 L14 0Z" fill="#f1e6d0"/><path d="M0 -26 L14 0 L4 0Z" fill="#e0d2b8"/></g>
+<g transform="translate(36,441) scale(0.5614698163930081)" opacity="0.62"><path d="M-30 0 L30 0 L20 12 L-20 12Z" fill="#fffaf0"/><path d="M-14 0 L0 -26 L14 0Z" fill="#f1e6d0"/><path d="M0 -26 L14 0 L4 0Z" fill="#e0d2b8"/></g>
+<g transform="translate(271,443) scale(0.4900193084473338)" opacity="0.81"><path d="M-30 0 L30 0 L20 12 L-20 12Z" fill="#fffaf0"/><path d="M-14 0 L0 -26 L14 0Z" fill="#f1e6d0"/><path d="M0 -26 L14 0 L4 0Z" fill="#e0d2b8"/></g>
+<g transform="translate(103,432) scale(0.45426177773780907)" opacity="0.82"><path d="M-30 0 L30 0 L20 12 L-20 12Z" fill="#fffaf0"/><path d="M-14 0 L0 -26 L14 0Z" fill="#f1e6d0"/><path d="M0 -26 L14 0 L4 0Z" fill="#e0d2b8"/></g>
+<g transform="translate(114,425) scale(0.41859016861566634)" opacity="0.62"><path d="M-30 0 L30 0 L20 12 L-20 12Z" fill="#fffaf0"/><path d="M-14 0 L0 -26 L14 0Z" fill="#f1e6d0"/><path d="M0 -26 L14 0 L4 0Z" fill="#e0d2b8"/></g>
+<g transform="translate(317,429) scale(0.673500563935257)" opacity="0.7"><path d="M-30 0 L30 0 L20 12 L-20 12Z" fill="#fffaf0"/><path d="M-14 0 L0 -26 L14 0Z" fill="#f1e6d0"/><path d="M0 -26 L14 0 L4 0Z" fill="#e0d2b8"/></g>
+<g transform="translate(104,436) scale(0.4727438893526447)" opacity="0.68"><path d="M-30 0 L30 0 L20 12 L-20 12Z" fill="#fffaf0"/><path d="M-14 0 L0 -26 L14 0Z" fill="#f1e6d0"/><path d="M0 -26 L14 0 L4 0Z" fill="#e0d2b8"/></g>
+<g transform="translate(92,415) scale(0.5578569583572434)" opacity="0.57"><path d="M-30 0 L30 0 L20 12 L-20 12Z" fill="#fffaf0"/><path d="M-14 0 L0 -26 L14 0Z" fill="#f1e6d0"/><path d="M0 -26 L14 0 L4 0Z" fill="#e0d2b8"/></g>
+<g transform="translate(76,441) scale(0.619952865429805)" opacity="0.52"><path d="M-30 0 L30 0 L20 12 L-20 12Z" fill="#fffaf0"/><path d="M-14 0 L0 -26 L14 0Z" fill="#f1e6d0"/><path d="M0 -26 L14 0 L4 0Z" fill="#e0d2b8"/></g>
+<circle cx="172" cy="534" r="2.5" fill="#ffd36b"/><circle cx="172" cy="534" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="54" cy="497" r="2.5" fill="#ffd36b"/><circle cx="54" cy="497" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="264" cy="430" r="2.5" fill="#ffd36b"/><circle cx="264" cy="430" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="184" cy="436" r="2.5" fill="#ffd36b"/><circle cx="184" cy="436" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="245" cy="447" r="2.5" fill="#ffd36b"/><circle cx="245" cy="447" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="46" cy="540" r="2.5" fill="#ffd36b"/><circle cx="46" cy="540" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="366" cy="447" r="2.5" fill="#ffd36b"/><circle cx="366" cy="447" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="266" cy="480" r="2.5" fill="#ffd36b"/><circle cx="266" cy="480" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="383" cy="447" r="2.5" fill="#ffd36b"/><circle cx="383" cy="447" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="58" cy="459" r="2.5" fill="#ffd36b"/><circle cx="58" cy="459" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="323" cy="448" r="2.5" fill="#ffd36b"/><circle cx="323" cy="448" r="8" fill="#ffd36b" opacity="0.25"/>
+<circle cx="111" cy="458" r="2.5" fill="#ffd36b"/><circle cx="111" cy="458" r="8" fill="#ffd36b" opacity="0.25"/>
+<rect x="0" y="380" width="400" height="220" fill="url(#fade)"/>
+<text x="200" y="471" text-anchor="middle" font-family="'Playfair Display','Georgia','DejaVu Serif',serif" font-weight="700" font-size="52" letter-spacing="0" fill="#fff6e5">Kaagaz</text>
+<text x="200" y="520" text-anchor="middle" font-family="'Playfair Display','Georgia','DejaVu Serif',serif" font-weight="700" font-size="52" letter-spacing="0" fill="#fff6e5">Ke Sapne</text>
+<rect x="170" y="534" width="60" height="3" fill="#ffd36b"/>
+<text x="200" y="558" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-size="12" font-style="italic" fill="#d9d9d9">Paper dreams don't sink. They sail.</text>
+<text x="200" y="586" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-size="10" letter-spacing="3" fill="#d9d9d9" opacity="0.85">IN CINEMAS NOW · HINDI</text>
+<g transform="translate(360 18)"><rect width="28" height="20" rx="4" fill="#000" opacity="0.55" stroke="#fff" stroke-opacity="0.6"/><text x="14" y="14.5" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-weight="700" font-size="11" fill="#fff">U</text></g>
+</svg>

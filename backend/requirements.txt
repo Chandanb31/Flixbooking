@@ -1,0 +1,10 @@
+fastapi>=0.115,<1.0
+uvicorn>=0.30
+websockets>=13.0
+sqlalchemy>=2.0.30,<3.0
+psycopg[binary]>=3.2
+pydantic[email]>=2.7,<3.0
+pydantic-settings>=2.3
+PyJWT>=2.8
+bcrypt>=4.1
+python-dotenv>=1.0

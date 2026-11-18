@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+<title>Neon Bazaar</title><defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#12001f"/><stop offset="1" stop-color="#2b0040"/></linearGradient><filter id="nglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.9"/></linearGradient></defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<rect x="-10" y="300" width="64" height="300" fill="#1b0030"/>
+<path d="M-10 300 L54 300 L46 280 L-2 280Z" fill="#ff2ea6" opacity="0.85"/>
+<rect x="-2" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="12" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="26" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="40" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="60" y="300" width="64" height="300" fill="#1b0030"/>
+<path d="M60 300 L124 300 L116 280 L68 280Z" fill="#00f0ff" opacity="0.85"/>
+<rect x="68" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="82" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="96" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="110" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="130" y="300" width="64" height="300" fill="#1b0030"/>
+<path d="M130 300 L194 300 L186 280 L138 280Z" fill="#ffe600" opacity="0.85"/>
+<rect x="138" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="152" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="166" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="180" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="200" y="300" width="64" height="300" fill="#1b0030"/>
+<path d="M200 300 L264 300 L256 280 L208 280Z" fill="#7bff4a" opacity="0.85"/>
+<rect x="208" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="222" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="236" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="250" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="270" y="300" width="64" height="300" fill="#1b0030"/>
+<path d="M270 300 L334 300 L326 280 L278 280Z" fill="#ff7b00" opacity="0.85"/>
+<rect x="278" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="292" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="306" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="320" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="340" y="300" width="64" height="300" fill="#1b0030"/>
+<path d="M340 300 L404 300 L396 280 L348 280Z" fill="#ff2ea6" opacity="0.85"/>
+<rect x="348" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="362" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="376" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<rect x="390" y="282" width="7" height="18" fill="#1b0030" opacity="0.35"/>
+<path d="M0 120 Q100 160 200 120 T400 120" stroke="#553366" stroke-width="1.5" fill="none"/>
+<circle cx="0" cy="120" r="4" fill="#ff2ea6"/><circle cx="0" cy="120" r="11" fill="#ff2ea6" opacity="0.25"/>
+<circle cx="19" cy="134" r="4" fill="#00f0ff"/><circle cx="19" cy="134" r="11" fill="#00f0ff" opacity="0.25"/>
+<circle cx="38" cy="145" r="4" fill="#ffe600"/><circle cx="38" cy="145" r="11" fill="#ffe600" opacity="0.25"/>
+<circle cx="57" cy="153" r="4" fill="#7bff4a"/><circle cx="57" cy="153" r="11" fill="#7bff4a" opacity="0.25"/>
+<circle cx="76" cy="158" r="4" fill="#ff7b00"/><circle cx="76" cy="158" r="11" fill="#ff7b00" opacity="0.25"/>
+<circle cx="95" cy="160" r="4" fill="#ff2ea6"/><circle cx="95" cy="160" r="11" fill="#ff2ea6" opacity="0.25"/>
+<circle cx="114" cy="159" r="4" fill="#00f0ff"/><circle cx="114" cy="159" r="11" fill="#00f0ff" opacity="0.25"/>
+<circle cx="133" cy="156" r="4" fill="#ffe600"/><circle cx="133" cy="156" r="11" fill="#ffe600" opacity="0.25"/>
+<circle cx="152" cy="149" r="4" fill="#7bff4a"/><circle cx="152" cy="149" r="11" fill="#7bff4a" opacity="0.25"/>
+<circle cx="171" cy="140" r="4" fill="#ff7b00"/><circle cx="171" cy="140" r="11" fill="#ff7b00" opacity="0.25"/>
+<circle cx="190" cy="127" r="4" fill="#ff2ea6"/><circle cx="190" cy="127" r="11" fill="#ff2ea6" opacity="0.25"/>
+<circle cx="210" cy="127" r="4" fill="#00f0ff"/><circle cx="210" cy="127" r="11" fill="#00f0ff" opacity="0.25"/>
+<circle cx="229" cy="140" r="4" fill="#ffe600"/><circle cx="229" cy="140" r="11" fill="#ffe600" opacity="0.25"/>
+<circle cx="248" cy="149" r="4" fill="#7bff4a"/><circle cx="248" cy="149" r="11" fill="#7bff4a" opacity="0.25"/>
+<circle cx="267" cy="156" r="4" fill="#ff7b00"/><circle cx="267" cy="156" r="11" fill="#ff7b00" opacity="0.25"/>
+<circle cx="286" cy="159" r="4" fill="#ff2ea6"/><circle cx="286" cy="159" r="11" fill="#ff2ea6" opacity="0.25"/>
+<circle cx="305" cy="160" r="4" fill="#00f0ff"/><circle cx="305" cy="160" r="11" fill="#00f0ff" opacity="0.25"/>
+<circle cx="324" cy="158" r="4" fill="#ffe600"/><circle cx="324" cy="158" r="11" fill="#ffe600" opacity="0.25"/>
+<circle cx="343" cy="153" r="4" fill="#7bff4a"/><circle cx="343" cy="153" r="11" fill="#7bff4a" opacity="0.25"/>
+<circle cx="362" cy="145" r="4" fill="#ff7b00"/><circle cx="362" cy="145" r="11" fill="#ff7b00" opacity="0.25"/>
+<circle cx="381" cy="134" r="4" fill="#ff2ea6"/><circle cx="381" cy="134" r="11" fill="#ff2ea6" opacity="0.25"/>
+<circle cx="400" cy="120" r="4" fill="#00f0ff"/><circle cx="400" cy="120" r="11" fill="#00f0ff" opacity="0.25"/>
+<g filter="url(#nglow)" fill="none" stroke-linejoin="round"><path d="M140 190 L260 190 L300 230 L200 340 L100 230Z" stroke="#00f0ff" stroke-width="5"/><path d="M100 230 L300 230 M140 190 L170 230 L200 340 L230 230 L260 190" stroke="#ff2ea6" stroke-width="3"/></g>
+<g fill="#07000d"><circle cx="70" cy="438" r="13"/><rect x="52" y="452" width="36" height="80" rx="12"/></g>
+<g fill="#07000d"><circle cx="320" cy="438" r="13"/><rect x="302" y="452" width="36" height="80" rx="12"/></g>
+<g fill="#07000d"><circle cx="205" cy="438" r="13"/><rect x="187" y="452" width="36" height="80" rx="12"/></g>
+<rect x="0" y="380" width="400" height="220" fill="url(#fade)"/>
+<text x="200" y="459" text-anchor="middle" font-family="'Bebas Neue','Oswald','Impact','Arial Narrow Bold',sans-serif" font-weight="800" font-size="64" letter-spacing="2" fill="#ffe600">NEON</text>
+<text x="200" y="520" text-anchor="middle" font-family="'Bebas Neue','Oswald','Impact','Arial Narrow Bold',sans-serif" font-weight="800" font-size="64" letter-spacing="2" fill="#ffe600">BAZAAR</text>
+<rect x="170" y="534" width="60" height="3" fill="#ff2ea6"/>
+<text x="200" y="558" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-size="12" font-style="italic" fill="#d9d9d9">One night. One market. Seven very bad plans.</text>
+<text x="200" y="586" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-size="10" letter-spacing="3" fill="#d9d9d9" opacity="0.85">IN CINEMAS NOW · HINDI</text>
+<g transform="translate(360 18)"><rect width="28" height="20" rx="4" fill="#000" opacity="0.55" stroke="#fff" stroke-opacity="0.6"/><text x="14" y="14.5" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-weight="700" font-size="11" fill="#fff">UA</text></g>
+</svg>

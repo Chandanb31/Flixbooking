@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+<title>Vettai</title><defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#06140c"/><stop offset="0.5" stop-color="#0f2e1c"/><stop offset="1" stop-color="#020805"/></linearGradient><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.9"/></linearGradient></defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<circle cx="290" cy="120" r="48" fill="#e9f2d0"/><circle cx="290" cy="120" r="80" fill="#e9f2d0" opacity="0.08"/>
+<path d="M-20 530 L-5 82 L10 530Z" fill="#0c2617"/>
+<path d="M1.0 530 L27 146 L53.0 530Z" fill="#0c2617"/>
+<path d="M37.4 530 L61 148 L85.4 530Z" fill="#0c2617"/>
+<path d="M71.0 530 L88 177 L104.0 530Z" fill="#0c2617"/>
+<path d="M94.1 530 L112 74 L130.1 530Z" fill="#0c2617"/>
+<path d="M119.3 530 L139 98 L159.3 530Z" fill="#0c2617"/>
+<path d="M147.3 530 L162 116 L177.3 530Z" fill="#0c2617"/>
+<path d="M168.3 530 L184 135 L199.3 530Z" fill="#0c2617"/>
+<path d="M190.0 530 L214 106 L237.0 530Z" fill="#0c2617"/>
+<path d="M222.9 530 L246 139 L268.9 530Z" fill="#0c2617"/>
+<path d="M255.1 530 L279 166 L303.1 530Z" fill="#0c2617"/>
+<path d="M288.7 530 L312 95 L334.7 530Z" fill="#0c2617"/>
+<path d="M320.9 530 L346 108 L371.9 530Z" fill="#0c2617"/>
+<path d="M356.59999999999997 530 L377 141 L397.59999999999997 530Z" fill="#0c2617"/>
+<path d="M385.29999999999995 530 L403 140 L420.29999999999995 530Z" fill="#0c2617"/>
+<path d="M409.79999999999995 530 L437 185 L464.79999999999995 530Z" fill="#0c2617"/>
+<path d="M-20 580 L-2 159 L15 580Z" fill="#081c10"/>
+<path d="M4.5 580 L21 170 L37.5 580Z" fill="#081c10"/>
+<path d="M27.599999999999998 580 L44 209 L59.599999999999994 580Z" fill="#081c10"/>
+<path d="M50.0 580 L70 259 L90.0 580Z" fill="#081c10"/>
+<path d="M78.0 580 L106 252 L133.0 580Z" fill="#081c10"/>
+<path d="M116.5 580 L140 168 L163.5 580Z" fill="#081c10"/>
+<path d="M149.4 580 L165 163 L180.4 580Z" fill="#081c10"/>
+<path d="M171.1 580 L197 178 L222.1 580Z" fill="#081c10"/>
+<path d="M206.79999999999998 580 L224 209 L241.79999999999998 580Z" fill="#081c10"/>
+<path d="M231.29999999999998 580 L255 226 L279.29999999999995 580Z" fill="#081c10"/>
+<path d="M264.9 580 L288 162 L311.9 580Z" fill="#081c10"/>
+<path d="M297.79999999999995 580 L324 183 L350.79999999999995 580Z" fill="#081c10"/>
+<path d="M334.9 580 L352 175 L368.9 580Z" fill="#081c10"/>
+<path d="M358.7 580 L374 155 L388.7 580Z" fill="#081c10"/>
+<path d="M379.7 580 L400 195 L420.7 580Z" fill="#081c10"/>
+<path d="M408.4 580 L434 153 L459.4 580Z" fill="#081c10"/>
+<path d="M-20 630 L6 256 L32 630Z" fill="#040f08"/>
+<path d="M16.4 630 L43 226 L69.4 630Z" fill="#040f08"/>
+<path d="M53.49999999999999 630 L80 276 L106.5 630Z" fill="#040f08"/>
+<path d="M90.6 630 L112 219 L132.6 630Z" fill="#040f08"/>
+<path d="M120.0 630 L136 305 L153.0 630Z" fill="#040f08"/>
+<path d="M143.1 630 L164 216 L184.1 630Z" fill="#040f08"/>
+<path d="M171.79999999999998 630 L193 213 L213.79999999999998 630Z" fill="#040f08"/>
+<path d="M201.2 630 L222 325 L242.2 630Z" fill="#040f08"/>
+<path d="M229.89999999999998 630 L251 229 L272.9 630Z" fill="#040f08"/>
+<path d="M260.0 630 L276 216 L291.0 630Z" fill="#040f08"/>
+<path d="M281.7 630 L308 233 L334.7 630Z" fill="#040f08"/>
+<path d="M318.79999999999995 630 L339 261 L358.79999999999995 630Z" fill="#040f08"/>
+<path d="M346.79999999999995 630 L373 312 L399.79999999999995 630Z" fill="#040f08"/>
+<path d="M383.9 630 L405 214 L426.9 630Z" fill="#040f08"/>
+<path d="M414.0 630 L440 233 L466.0 630Z" fill="#040f08"/>
+<ellipse cx="165" cy="420" rx="16" ry="9" fill="#ffb000"/><ellipse cx="165" cy="420" rx="3" ry="8" fill="#140a00"/>
+<ellipse cx="165" cy="420" rx="30" ry="18" fill="#ffb000" opacity="0.15"/>
+<ellipse cx="235" cy="420" rx="16" ry="9" fill="#ffb000"/><ellipse cx="235" cy="420" rx="3" ry="8" fill="#140a00"/>
+<ellipse cx="235" cy="420" rx="30" ry="18" fill="#ffb000" opacity="0.15"/>
+<path d="M70 40 Q95 150 80 260" stroke="#c4161c" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.85"/>
+<path d="M88 40 Q113 150 98 260" stroke="#c4161c" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.85"/>
+<path d="M106 40 Q131 150 116 260" stroke="#c4161c" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.85"/>
+<rect x="0" y="380" width="400" height="220" fill="url(#fade)"/>
+<text x="200" y="520" text-anchor="middle" font-family="'Bebas Neue','Oswald','Impact','Arial Narrow Bold',sans-serif" font-weight="800" font-size="64" letter-spacing="2" fill="#ffb000">VETTAI</text>
+<rect x="170" y="534" width="60" height="3" fill="#c4161c"/>
+<text x="200" y="558" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-size="12" font-style="italic" fill="#d9d9d9">In the forest, the hunter becomes the hunted.</text>
+<text x="200" y="586" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-size="10" letter-spacing="3" fill="#d9d9d9" opacity="0.85">IN CINEMAS NOW · TAMIL</text>
+<g transform="translate(360 18)"><rect width="28" height="20" rx="4" fill="#000" opacity="0.55" stroke="#fff" stroke-opacity="0.6"/><text x="14" y="14.5" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-weight="700" font-size="11" fill="#fff">A</text></g>
+</svg>

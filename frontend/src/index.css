@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+/* FlixBooking design tokens — "house lights down" */
+@theme {
+  --color-ink: #16121b;        /* page background: plum-black, like velvet in the dark */
+  --color-velvet: #201a27;     /* panels */
+  --color-plush: #2c2434;      /* raised surfaces, inputs */
+  --color-seam: #3e3448;       /* borders, booked seats */
+  --color-brass: #c9a46a;      /* the one accent: selected, primary actions */
+  --color-brass-deep: #9c7d4c;
+  --color-mist: #9d92ab;       /* secondary text */
+  --color-glow: #ece6f2;       /* primary text, the screen */
+  --color-sage: #7fa38d;       /* plenty of seats */
+  --color-rose: #cf7d84;       /* errors, filling fast */
+
+  --font-display: "Big Shoulders Display", "Arial Narrow", sans-serif;
+  --font-sans: "Figtree", ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  background: var(--color-ink);
+  color: var(--color-glow);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  min-height: 100vh;
+}
+
+/* Keyboard focus is always visible */
+:focus-visible {
+  outline: 2px solid var(--color-brass);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+::selection {
+  background: var(--color-brass);
+  color: var(--color-ink);
+}
+
+/* Held seats: someone else is paying for them right now */
+.seat-held {
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgb(157 146 171 / 0.35) 0 3px,
+    transparent 3px 6px
+  );
+}
+
+/* The cinema screen at the top of the seat map */
+.screen-arc {
+  height: 14px;
+  border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+  background: linear-gradient(180deg, #ece6f2, #b9adc8);
+  box-shadow: 0 0 40px 6px rgb(236 230 242 / 0.25);
+}
+.screen-light {
+  background: linear-gradient(180deg, rgb(236 230 242 / 0.10), transparent 85%);
+  clip-path: polygon(6% 0, 94% 0, 100% 100%, 0 100%);
+}
+
+/* Ticket perforation */
+.ticket-notch {
+  background-image: radial-gradient(circle, var(--color-ink) 6px, transparent 6.5px);
+  background-size: 100% 22px;
+}
+
+/* The one orchestrated motion: the featured film changing on the home page */
+@keyframes feature-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: none; }
+}
+.feature-in {
+  animation: feature-in 480ms cubic-bezier(.2,.7,.2,1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+<title>Chai &amp; Chaos</title><defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe9dc"/><stop offset="1" stop-color="#ffc9c9"/></linearGradient><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.75"/></linearGradient></defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<rect x="363" y="217" width="8" height="4" fill="#4ec9b0" transform="rotate(64 363 217)" opacity="0.8"/>
+<rect x="18" y="13" width="8" height="4" fill="#4ec9b0" transform="rotate(21 18 13)" opacity="0.8"/>
+<rect x="10" y="265" width="8" height="4" fill="#4ec9b0" transform="rotate(161 10 265)" opacity="0.8"/>
+<rect x="386" y="118" width="8" height="4" fill="#ff6b8b" transform="rotate(58 386 118)" opacity="0.8"/>
+<rect x="84" y="179" width="8" height="4" fill="#4ec9b0" transform="rotate(46 84 179)" opacity="0.8"/>
+<rect x="81" y="251" width="8" height="4" fill="#7a5cff" transform="rotate(162 81 251)" opacity="0.8"/>
+<rect x="224" y="272" width="8" height="4" fill="#ff6b8b" transform="rotate(19 224 272)" opacity="0.8"/>
+<rect x="168" y="163" width="8" height="4" fill="#7a5cff" transform="rotate(137 168 163)" opacity="0.8"/>
+<rect x="269" y="13" width="8" height="4" fill="#7a5cff" transform="rotate(83 269 13)" opacity="0.8"/>
+<rect x="87" y="163" width="8" height="4" fill="#4ec9b0" transform="rotate(119 87 163)" opacity="0.8"/>
+<rect x="81" y="292" width="8" height="4" fill="#ff6b8b" transform="rotate(83 81 292)" opacity="0.8"/>
+<rect x="130" y="107" width="8" height="4" fill="#ffb03b" transform="rotate(66 130 107)" opacity="0.8"/>
+<rect x="11" y="245" width="8" height="4" fill="#ffb03b" transform="rotate(103 11 245)" opacity="0.8"/>
+<rect x="294" y="84" width="8" height="4" fill="#ff6b8b" transform="rotate(42 294 84)" opacity="0.8"/>
+<rect x="190" y="129" width="8" height="4" fill="#ffb03b" transform="rotate(135 190 129)" opacity="0.8"/>
+<rect x="86" y="350" width="8" height="4" fill="#ff6b8b" transform="rotate(11 86 350)" opacity="0.8"/>
+<rect x="44" y="346" width="8" height="4" fill="#ffb03b" transform="rotate(115 44 346)" opacity="0.8"/>
+<rect x="162" y="71" width="8" height="4" fill="#4ec9b0" transform="rotate(157 162 71)" opacity="0.8"/>
+<rect x="290" y="255" width="8" height="4" fill="#4ec9b0" transform="rotate(111 290 255)" opacity="0.8"/>
+<rect x="377" y="336" width="8" height="4" fill="#7a5cff" transform="rotate(163 377 336)" opacity="0.8"/>
+<rect x="137" y="9" width="8" height="4" fill="#7a5cff" transform="rotate(82 137 9)" opacity="0.8"/>
+<rect x="385" y="340" width="8" height="4" fill="#ff6b8b" transform="rotate(24 385 340)" opacity="0.8"/>
+<rect x="305" y="289" width="8" height="4" fill="#ffb03b" transform="rotate(54 305 289)" opacity="0.8"/>
+<rect x="348" y="111" width="8" height="4" fill="#7a5cff" transform="rotate(15 348 111)" opacity="0.8"/>
+<rect x="388" y="11" width="8" height="4" fill="#ff6b8b" transform="rotate(128 388 11)" opacity="0.8"/>
+<rect x="96" y="26" width="8" height="4" fill="#4ec9b0" transform="rotate(116 96 26)" opacity="0.8"/>
+<rect x="192" y="156" width="8" height="4" fill="#4ec9b0" transform="rotate(26 192 156)" opacity="0.8"/>
+<rect x="265" y="169" width="8" height="4" fill="#4ec9b0" transform="rotate(49 265 169)" opacity="0.8"/>
+<rect x="197" y="343" width="8" height="4" fill="#4ec9b0" transform="rotate(93 197 343)" opacity="0.8"/>
+<rect x="254" y="37" width="8" height="4" fill="#7a5cff" transform="rotate(17 254 37)" opacity="0.8"/>
+<rect x="362" y="169" width="8" height="4" fill="#ffb03b" transform="rotate(95 362 169)" opacity="0.8"/>
+<rect x="387" y="100" width="8" height="4" fill="#7a5cff" transform="rotate(128 387 100)" opacity="0.8"/>
+<rect x="273" y="276" width="8" height="4" fill="#ffb03b" transform="rotate(109 273 276)" opacity="0.8"/>
+<rect x="263" y="84" width="8" height="4" fill="#7a5cff" transform="rotate(131 263 84)" opacity="0.8"/>
+<rect x="140" y="195" width="8" height="4" fill="#ff6b8b" transform="rotate(131 140 195)" opacity="0.8"/>
+<rect x="304" y="73" width="8" height="4" fill="#ffb03b" transform="rotate(51 304 73)" opacity="0.8"/>
+<rect x="311" y="313" width="8" height="4" fill="#ff6b8b" transform="rotate(83 311 313)" opacity="0.8"/>
+<rect x="259" y="286" width="8" height="4" fill="#4ec9b0" transform="rotate(150 259 286)" opacity="0.8"/>
+<rect x="158" y="8" width="8" height="4" fill="#ffb03b" transform="rotate(113 158 8)" opacity="0.8"/>
+<rect x="312" y="22" width="8" height="4" fill="#4ec9b0" transform="rotate(36 312 22)" opacity="0.8"/>
+<g transform="translate(110 300) scale(-1 1)"><path d="M-50 -40 L50 -40 L40 50 Q0 65 -40 50Z" fill="#ff6b8b"/><ellipse cx="0" cy="-40" rx="50" ry="10" fill="#8b4a2b"/><path d="M50 -20 Q80 -15 75 10 Q70 30 44 28" stroke="#ff6b8b" stroke-width="9" fill="none"/><circle cx="-15" cy="5" r="4" fill="#3a2a2a"/><circle cx="15" cy="5" r="4" fill="#3a2a2a"/><path d="M-12 22 Q0 14 12 22" stroke="#3a2a2a" stroke-width="3" fill="none"/><path d="M-25 -8 L-8 -2 M25 -8 L8 -2" stroke="#3a2a2a" stroke-width="3"/></g>
+<g transform="translate(290 300) scale(1 1)"><path d="M-50 -40 L50 -40 L40 50 Q0 65 -40 50Z" fill="#4ec9b0"/><ellipse cx="0" cy="-40" rx="50" ry="10" fill="#8b4a2b"/><path d="M50 -20 Q80 -15 75 10 Q70 30 44 28" stroke="#4ec9b0" stroke-width="9" fill="none"/><circle cx="-15" cy="5" r="4" fill="#3a2a2a"/><circle cx="15" cy="5" r="4" fill="#3a2a2a"/><path d="M-12 22 Q0 14 12 22" stroke="#3a2a2a" stroke-width="3" fill="none"/><path d="M-25 -8 L-8 -2 M25 -8 L8 -2" stroke="#3a2a2a" stroke-width="3"/></g>
+<path d="M200 230 C150 180 160 130 200 160 C240 130 250 180 200 230Z" fill="none" stroke="#ffffff" stroke-width="5" opacity="0.9"/>
+<path d="M100 250 q-10 -20 0 -40 q10 -20 0 -40" stroke="#fff" stroke-width="4" fill="none" opacity="0.7"/>
+<path d="M300 250 q-10 -20 0 -40 q10 -20 0 -40" stroke="#fff" stroke-width="4" fill="none" opacity="0.7"/>
+<path d="M190 320 L215 285 L200 285 L215 255" stroke="#ffb03b" stroke-width="5" fill="none" stroke-linejoin="round"/>
+<rect x="0" y="380" width="400" height="220" fill="#ff8fa3" opacity="0.25"/>
+<rect x="0" y="380" width="400" height="220" fill="url(#fade)"/>
+<text x="200" y="471" text-anchor="middle" font-family="'Playfair Display','Georgia','DejaVu Serif',serif" font-weight="700" font-size="52" letter-spacing="0" fill="#3a1f2b">Chai &amp;</text>
+<text x="200" y="520" text-anchor="middle" font-family="'Playfair Display','Georgia','DejaVu Serif',serif" font-weight="700" font-size="52" letter-spacing="0" fill="#3a1f2b">Chaos</text>
+<rect x="170" y="534" width="60" height="3" fill="#ff6b8b"/>
+<text x="200" y="558" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-size="12" font-style="italic" fill="#3a2a2a">Two cafés. One street. Zero chill.</text>
+<text x="200" y="586" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-size="10" letter-spacing="3" fill="#3a2a2a" opacity="0.85">IN CINEMAS NOW · HINDI</text>
+<g transform="translate(360 18)"><rect width="28" height="20" rx="4" fill="#000" opacity="0.55" stroke="#fff" stroke-opacity="0.6"/><text x="14" y="14.5" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue','DejaVu Sans',sans-serif" font-weight="700" font-size="11" fill="#fff">U</text></g>
+</svg>
